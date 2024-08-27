@@ -1,0 +1,22 @@
+{
+	"extensions": {
+		".txt": "Documents",
+		".jpg": "Photos",
+		".pdf": "Documents",
+		".mp4": "Videos",
+		".mp3": "Music",
+		".docx": "Documents",
+		".png": "Photos",
+		".epub": "Documents",
+		".djuv": "Documents",
+		".mkv": "Videos",
+		".zip":"Archives",
+		".7z":"Archives",
+		".tar.xz.gz":"Archives",
+		".jpeg":"Photos",
+		".apk":"Apps",
+		".apks":"Apps",
+		".xapk":"Apps"
+	},
+	"defaultDir": "Misc"
+}

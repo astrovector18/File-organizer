@@ -1,0 +1,14 @@
+{
+  "extensions": {
+    ".txt": "Documents",
+    ".jpg": "Images",
+    ".pdf": "Documents",
+    ".mp4": "Videos",
+    ".mp3": "Music",
+    ".docx": "Documents",
+    ".png": "Images",
+    ".epub": "Documents",
+    ".djuv": "Documents",
+    ".mkv": "Videos"
+  },"defaultDir":"Misc"
+}
