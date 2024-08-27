@@ -40,7 +40,7 @@ $ git clone https://github.com/astrovector18/File-organizer.git
 $ cd File-organizer
 ```
 ```bash
-$ npm install -g
+$ npm install
 ```
 
 ## Usage
