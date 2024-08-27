@@ -33,9 +33,9 @@ $ apt install git
 ### Using Git
 
 ```sh
-$ git clone https://www.git.com
+$ git clone https://github.com/astrovector18/File-organizer.git
 
-$ cd file-organizer
+$ cd File-organizer
 
 $ npm install -g
 
