@@ -25,7 +25,8 @@ them , copy , paste and execute the following command :
 
 ```bash
 $ apt install nodejs
-
+```
+```bash
 $ apt install git
 
 ```
@@ -34,11 +35,12 @@ $ apt install git
 
 ```sh
 $ git clone https://github.com/astrovector18/File-organizer.git
-
+```
+```bash
 $ cd File-organizer
-
+```
+```bash
 $ npm install -g
-
 ```
 
 ## Usage
